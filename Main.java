@@ -5,5 +5,8 @@ public class Main {
         Calculo.subtrai(10, 2);
         Calculo.multiplica(10, 2);
         Calculo.divide(10, 2);
+
+        // Date
+        Date.obterHora(19);
     }
 }
