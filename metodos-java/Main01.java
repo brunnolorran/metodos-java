@@ -1,4 +1,4 @@
-public class Main {
+public class Main01 {
     public static void main(String[] args) {
         // calculadora
         Calculo.soma(4, 2);
