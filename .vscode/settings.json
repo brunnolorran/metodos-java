@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "sobrecarga-java",
         "retorno-java",
+        "repeticao-java",
         "metodos-java",
-        "repeticao-java"
+        "arrays-java"
     ]
 }
